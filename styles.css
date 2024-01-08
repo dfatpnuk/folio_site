@@ -1,0 +1,26 @@
+body {
+	background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg');
+  	background-size: cover;
+	background-color: ghostwhite;
+	border: 2px grey;
+	margin: 50px;
+}
+h1 {
+	color: grey;
+	font-family: 'Amiri', serif;
+	font-size: 300%;
+}
+h3	{
+  	font-family: 'Playfair Display', serif;
+}
+p {
+	font-family: 'Playfair Display', serif;
+	padding: 30px;
+	margin: 50px;
+}
+*   {
+	text-align: center;
+  	color: grey;
+	padding: 12px;
+  	font-family: 'Playfair Display', serif;
+}
