@@ -6,15 +6,15 @@ body {
 	margin: 50px;
 }
 h1 {
-	color: grey;
-	font-family: 'Amiri', serif;
+	color: orange;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 300%;
 }
 h3	{
-  	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 }
 p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 	padding: 30px;
 	margin: 50px;
 }
@@ -22,5 +22,5 @@ p {
 	text-align: left;
   	color: orange;
 	padding: 24px;
-  	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;;
 }
