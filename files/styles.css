@@ -15,11 +15,11 @@ h3	{
 }
 p {
 	font-family: 'Roboto', sans-serif;
-	padding: 30px;
 	margin: 50px;
 }
 *   {
 	text-align: left;
+	padding: 30px;
   	color: orange;
 	padding: 24px;
 	font-family: 'Roboto', sans-serif;;
